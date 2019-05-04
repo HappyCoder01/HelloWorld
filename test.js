@@ -3,8 +3,8 @@
  * 创建时间： 2019/5/4.
  * 描述：
  */
-function add(a, b, c, f) {
-    return a + b + c + f;
+function add(a, b, c, d) {
+    return a + b + c + d;
 }
 
 function test03() {
