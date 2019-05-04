@@ -7,6 +7,9 @@ function add(a, b, c) {
     return a + b + c;
 }
 
+function test03() {
+    console.log('test03')
+}
 function test04() {
     console.log('test04')
 }
