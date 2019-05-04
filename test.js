@@ -13,3 +13,6 @@ function test03() {
 function test04() {
     console.log('test4')
 }
+function test07() {
+    console.log('test007')
+}
