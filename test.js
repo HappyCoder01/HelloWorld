@@ -6,3 +6,7 @@
 function add(a, b, c) {
     return a + b + c;
 }
+
+function test04() {
+    console.log('test04')
+}
