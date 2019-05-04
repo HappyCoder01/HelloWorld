@@ -11,5 +11,5 @@ function test03() {
     console.log('test003')
 }
 function test04() {
-    console.log('test04')
+    console.log('test4')
 }
