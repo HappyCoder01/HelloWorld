@@ -3,16 +3,25 @@
  * 创建时间： 2019/5/4.
  * 描述：
  */
-function add(a, b, c) {
-    return a + b + c;
+function add(a, b) {
+    return a + b;
 }
 
 function test03() {
     console.log('test003')
 }
 function test04() {
-    console.log('test4')
+    console.log('test004')
 }
+
+function test05() {
+    console.log('test005')
+}
+
+function test06() {
+    console.log('test006')
+}
+
 function test07() {
     console.log('test007')
 }
